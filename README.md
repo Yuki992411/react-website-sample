@@ -63,6 +63,10 @@ You can use [React Icons](https://react-icons.github.io/react-icons/).
 
 You can use [React Router](https://reactrouter.com/web/guides/quick-start). This allow you to setting router, and you can have several pages.
 
+### `yarn add react-bootstrap`
+
+you can use [React Bootstrap](https://react-bootstrap.github.io/).
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
