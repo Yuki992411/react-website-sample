@@ -59,6 +59,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 You can use [React Icons](https://react-icons.github.io/react-icons/).
 
+### `yarn add react-router-dom`
+
+You can use [React Router](https://reactrouter.com/web/guides/quick-start). This allow you to setting router, and you can have several pages.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
