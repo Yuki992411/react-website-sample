@@ -42,7 +42,7 @@ function Content2() {
             </Form>
           </div>
           <Table bordered size="sm" responsive="sm" className={'text-center'}>
-            <thead className={'thead-dark'}>
+            <thead className={'table-dark'}>
               <tr>
                 <th>Month</th>
                 <th>Day</th>
