@@ -67,6 +67,10 @@ You can use [React Router](https://reactrouter.com/web/guides/quick-start). This
 
 you can use [React Bootstrap](https://react-bootstrap.github.io/).
 
+### `yarn add bootstrap`
+
+you can use [Bootstrap](https://getbootstrap.jp/).
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
