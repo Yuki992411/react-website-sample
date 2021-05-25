@@ -71,6 +71,20 @@ you can use [React Bootstrap](https://react-bootstrap.github.io/).
 
 you can use [Bootstrap](https://getbootstrap.jp/).
 
+### `yarn add gh-pages`
+
+you can deploy web-page in GitHub pages.
+after `yarn add gh-pages`, add scripts in package.json. Finally, you do `yarn ghpages`.
+
+```
+"scripts": {
+  ...
+  "preghpages": "yarn build",
+  "ghpages": "gh-pages -d build"
+},
+"homepage": "./",
+```
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
