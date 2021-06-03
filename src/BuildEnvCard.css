@@ -1,0 +1,16 @@
+.build-env-card h4 {
+  font-family:
+   "Times",
+   "Hiragino Kaku Gothic ProN",
+   "Hiragino Sans",
+   Meiryo,
+   sans-serif;
+   font-weight: 700;
+  }
+
+  .console-text {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+    font-size: 1em;
+    line-height: 20px;
+  }

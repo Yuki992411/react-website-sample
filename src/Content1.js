@@ -82,17 +82,17 @@ function Content1() {
           </h4>
           <div className="d-flex justify-content-around">
             <div className="p-2">
-              <Link to=''>
+              <Link to='/how-to-build'>
                 <ShutterButton description='No. 1'/>
               </Link>
             </div>
             <div className="p-2">
-              <Link to=''>
+              <Link to='/how-to-build'>
                 <ShutterButton description='No. 2'/>
               </Link>
             </div>
             <div className="p-2">
-              <Link to=''>
+              <Link to='/how-to-build'>
                 <ShutterButton description='No. 3'/>
               </Link>
             </div>
