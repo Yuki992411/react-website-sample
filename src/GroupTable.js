@@ -5,7 +5,7 @@ import './Page.css';
 function GroupTable() {
   return (
     <div className={''}>
-      <h3 className="font-weight-bold text-center">Groups </h3>
+      <h3 className="fw-bold text-center">Groups </h3>
       <Table striped bordered className={'text-center shadow'}>
         <thead className={'bg-success'}>
           <tr>

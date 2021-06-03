@@ -9,12 +9,12 @@ function Content2() {
     const basic_style = 'bg-danger text-white content-transition';
 
     return `${select === prop_group ? basic_style : null}
-            ${ is_bold ? 'font-weight-bold' : null}`;
+            ${ is_bold ? 'fw-bold' : null}`;
   };
 
   return (
     <>
-      <h2 className="font-weight-bold underline">Content 2 </h2>
+      <h2 className="fw-bolder underline">Content 2 </h2>
       <Container fluid="md">
         {/* Schedule */}
         <div className={"p-2 mb-3 text-center"}>
@@ -28,7 +28,7 @@ function Content2() {
             <Form inline>
               <Form.Control
                 as="select"
-                className="my-1 mr-sm-2"
+                className="my-1 me-sm-3"
                 size="sm"
                 custom = {true}
                 onChange={(e) => setSelect(e.target.value)}

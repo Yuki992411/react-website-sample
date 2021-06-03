@@ -15,7 +15,7 @@ function Content1() {
 
   return (
     <>
-      <h2 className="font-weight-bold underline">Content 1 </h2>
+      <h2 className="fw-bolder underline">Content 1 </h2>
       <Container fluid="md">
         <div className={"p-2 mb-3"}>
           <h4>

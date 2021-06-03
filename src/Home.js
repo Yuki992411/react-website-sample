@@ -15,7 +15,7 @@ function Home() {
       </div>
       {/* Contents */}
       <Container className={'bg-white pt-sm-5'}>
-        <div className={'mb-sm-5 ml-sm-5 mr-sm-5'}><GroupTable /></div>
+        <div className={'mb-sm-5 mx-sm-5'}><GroupTable /></div>
         <div className={'contents-props'}><Content1 /></div>
         <div className={'contents-props'}><Content2 /></div>
         <ScrollTop />
